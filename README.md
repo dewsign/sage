@@ -106,6 +106,8 @@ If your local development URL looks like `http://localhost:8888/project-name/` y
 
 Sage documentation is available at [https://roots.io/sage/docs/](https://roots.io/sage/docs/).
 
+Yep
+
 ## Contributing
 
 Contributions are welcome from everyone. We have [contributing guidelines](CONTRIBUTING.md) to help you get started.
